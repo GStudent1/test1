@@ -19,6 +19,9 @@
 #     num_input1 += 1;
 
 
-
+num_input1=input("请输入一个数字");
+num_input11=str(num_input1);
+num_input2=input("请输入一个数字");
+num_input22=str(num_input2);
 print(min(3,6));
 
